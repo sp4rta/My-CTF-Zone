@@ -1,4 +1,5 @@
 ## Pwn
 
 - [runme](Pwn/runme)
-- [runme](Pwn/thefirst)
+- [thefirst](Pwn/thefirst)
+- [3step](Pwn/3step)
