@@ -1,3 +1,3 @@
 ## Pwn
 
-- [Pwn](Pwn)
+- [runme](Pwn/runme)
