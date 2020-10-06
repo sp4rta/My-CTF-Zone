@@ -4,7 +4,7 @@
 >
 > [attachment]()
 
-This challenge provide the "/bin/sh" in stack top and limit the input length is 16. so I write the shellcode like this:
+This challenge provide the "/bin/sh" in stack top and limit the max input length is 16. so I write the shellcode like this:
 
 ```asm
 push 0
