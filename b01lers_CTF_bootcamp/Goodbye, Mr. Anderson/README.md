@@ -7,7 +7,6 @@
 This program has four input and three output:
 
 - The first input is stored in .bss, so we can input the "/bin/sh" . 
-
 - Than use the second input and output to leak the .text address. 
   - if we have .text segment address, we can get address of "bin/sh" and get address of gadgets in the .text segment. such as `pop rdi; ret`,`pop rax;syscall` 
 - The third input and output are used to leak the canary value.
